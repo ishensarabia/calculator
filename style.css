@@ -68,6 +68,55 @@ button {
     transition: background-color 0.3s;
 }
 
+.btn.btn-clear {
+    background-color: #adadad;
+}
+
+.btn.btn-operator-add {
+    background-color: #f3a600;
+}
+
+.btn.btn-operator-subtract {
+    background-color: #f3a600;
+}
+
+.btn.btn-operator-multiply {
+    background-color: #f3a600;
+}
+
+.btn.btn-operator-divide {
+    background-color: #f3a600;
+}
+
+.btn.btn-equals {
+    background-color: #f3a600;
+}
+
+
+.btn.btn-clear:hover {
+    background-color: #dbdbdb;
+}
+
+.btn.btn-operator-add:hover {
+    background-color: #e7c57c;
+}
+
+.btn.btn-operator-subtract:hover {
+    background-color: #e7c57c;
+}
+
+.btn.btn-operator-multiply:hover {
+    background-color: #e7c57c;
+}
+
+.btn.btn-operator-divide:hover {
+    background-color: #e7c57c;
+}
+
+.btn.btn-equals:hover {
+    background-color: #e7c57c;
+}
+
 button:hover {
     background-color: #555;
 }
